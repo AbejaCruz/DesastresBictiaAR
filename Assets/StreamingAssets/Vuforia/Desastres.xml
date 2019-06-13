@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="tim" size="1.000000 1.714286" />
+    <ImageTarget name="Tsunami1" size="1.000000 1.013423" />
+    <ImageTarget name="terremoto" size="1.000000 1.056511" />
+    <ImageTarget name="lluvia" size="1.000000 0.902597" />
+    <ImageTarget name="inundaciones" size="1.000000 1.021201" />
+    <ImageTarget name="incendio" size="1.000000 0.991176" />
+  </Tracking>
+</QCARConfig>
